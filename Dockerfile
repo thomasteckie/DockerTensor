@@ -13,7 +13,7 @@ RUN pip install -U tensorflow
 RUN pip install -U pandas
 RUN pip install -U scikit-learn
 RUN pip install -U matplotlib
-RUN pip install -U tkinter
+#RUN pip install -U tkinter
 RUN pip install -U seaborn
 RUN pip install -U keras
 
